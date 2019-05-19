@@ -1,0 +1,112 @@
+.contact-agileinfo01 {
+    padding: 50px 0px;
+}
+.contact-agileinfo01 h2 {
+    font-size: 40px;
+    color: #e91e63;
+    margin-bottom: 40px;
+}
+.nbs-flexisel-container01 {
+    position: relative;
+    max-width: 100%;
+}
+
+.footer-left-w3 ul li {
+    display: inline-block;
+    margin-bottom: 35px;
+}
+
+.footer-left-w3 .glyphicon01 {
+    font-size: 16px;
+}
+
+.footer-left-w3 ul li h6 {
+    font-size: 16px;
+    color: #000;
+    margin-left: 10px;
+}
+
+.footer-left-w3 ul li a {
+    font-size: 14px;
+    color: #000;
+}
+.service-grid-agileits .glyphicon01 {
+    font-size: 30px;
+    background: #E91E63;
+    padding: 20px;
+    border-radius: 50%;
+    color: #fff;
+    margin-bottom: 15px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+.service-grid-agileits:hover .glyphicon01 {
+    background: #071ea0;
+}
+.footer-left-w3 .glyphicon01 {
+    font-size: 16px;
+}
+.contact-left-agile01 h4 {
+    font-size: 21px;
+    text-align: left;
+    margin-bottom: 13px;
+    color: #E91E63;
+    font-weight: 700;
+}
+
+.contact-left-agile01 ul li {
+    text-align: left;
+    display: block;
+    font-size: 14px;
+    line-height: 25px;
+    color: #999;
+}
+
+.contact-left-agile01 .phone-agileits-w3layouts01 {
+    margin: 25px 0;
+}
+
+.contact-left-agile01 p {
+    font-size: 14px;
+    line-height: 25px;
+    color: #999;
+}
+
+    .contact-left-agile01 p a {
+        color: #999;
+        font-size: 14px;
+    }
+.contact-right-w301 input.text, .contact-right-w301 textarea {
+    width: 48.2%;
+    float: left;
+    margin: 0 10px 25px 0;
+    padding: 15px 10px;
+    background-color: transparent;
+    border: none;
+    border-left: 1px solid rgb(2, 24, 136);
+    border-bottom: 1px solid rgb(2, 24, 136);
+    outline: transparent;
+}
+
+.contact-right-w301 textarea {
+    width: 100%;
+    height: 125px;
+}
+
+.contact-right-w301 input.more_btn {
+    float: right;
+    padding: 7px 15px;
+    background-color: transparent;
+    border: 2px solid rgb(2, 24, 136);
+    outline: transparent;
+    color: rgb(2, 24, 136);
+}
+
+    .contact-right-w301 input.more_btn:hover {
+        color: #FFf;
+        border: 2px solid #FF166D;
+        background: #FF166D;
+    }
